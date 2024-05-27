@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/tictactoe.git
+   git clone https://github.com/raz121991/TicTacToe.git
 2. Navigate to the project directory:
 
    cd tic-tac-toe
